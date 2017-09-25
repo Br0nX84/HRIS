@@ -1,0 +1,14 @@
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\HRIS_SOFTWARE.exe.config
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\HRIS_SOFTWARE.exe
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\HRIS_SOFTWARE.pdb
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.csprojResolveAssemblyReference.cache
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.MainMenu.resources
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.Properties.Resources.resources
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.csproj.GenerateResource.Cache
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.exe
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.pdb
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\obj\Debug\HRIS_SOFTWARE.MasterSettings.resources
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\MySql.Data.dll
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\MySql.Data.xml
+C:\Users\HL7\Documents\Money\HRIS\HRIS_project\HRIS_SOFTWARE\HRIS_SOFTWARE\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
